@@ -11,6 +11,7 @@ By Tian Tong | Instructor: Prof. Ioannis Ziogas
 
 <p>
 This project analyzes the conditions associated with serious or fatal pedestrian-involved road collisions in Great Britain using the 2023 Road Safety Data published by the UK Department for Transport.
+The working paper has been published on <a href="https://arxiv.org/abs/2512.04022">arXiv</a>.
 </p>
 
 <p>
@@ -125,7 +126,6 @@ This repository contains datasets, scripts, visual outputs, and documentation fo
 <ul>
   <li><code>Report.pdf</code> – Full written report detailing the background, data methodology, modeling results, and policy implications</li>
 </ul>
-<p>The working paper has been published on <a href="https://arxiv.org/abs/2512.04022">arXiv</a>.</p>
 
 
 <!-- PREREQUISITES -->
