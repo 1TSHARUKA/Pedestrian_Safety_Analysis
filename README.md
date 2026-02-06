@@ -125,7 +125,7 @@ This repository contains datasets, scripts, visual outputs, and documentation fo
 <ul>
   <li><code>Report.pdf</code> – Full written report detailing the background, data methodology, modeling results, and policy implications</li>
 </ul>
-The working paper has been published <a href="[https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data](https://arxiv.org/abs/2512.04022)">ArXiv.</a>
+<p>The working paper has been published on <a href="https://arxiv.org/abs/2512.04022">arXiv</a>.</p>
 
 
 <!-- PREREQUISITES -->
