@@ -1,6 +1,6 @@
 <!-- TITLE & AUTHORS -->
-<h1 align="center">Enhancing Pedestrian Safety in Great Britain</h1>
-<h3 align="center">Analysis of Road Collision Data and Policy Effectiveness</h3>
+<h1 align="center">Non-Linear Determinants of Pedestrian Injury Severity:</h1>
+<h3 align="center">Evidence from Administrative Data in Great Britain</h3>
 
 <p align="center">
 By Tian Tong | Instructor: Prof. Ioannis Ziogas  
@@ -123,8 +123,9 @@ This repository contains datasets, scripts, visual outputs, and documentation fo
 <h3>Documentation</h3>
 
 <ul>
-  <li><code>Final_Project_Tian_Tong.pdf</code> – Full written report detailing the background, data methodology, modeling results, and policy implications</li>
+  <li><code>Report.pdf</code> – Full written report detailing the background, data methodology, modeling results, and policy implications</li>
 </ul>
+The working paper has been published <a href="[https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data](https://arxiv.org/abs/2512.04022)">ArXiv.</a>
 
 
 <!-- PREREQUISITES -->
